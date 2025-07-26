@@ -5,3 +5,12 @@
 </p>
 
 # Sicura Agile Digital Transformation
+
+This repository contains a digital transformation strategy developed for **Sicura** motor insurance company. The project was developed as part of the **Agile Project Management** course at **Politecnico di Milano**, in collaboration with **PwC Italy**.
+
+Our objective was to address Sicura’s core business challenges, including operational inefficiency and lack of online sales, by designing an AI-powered, customer-centric digital portal. The solution follows Agile methodology, from Epics and User Stories to MVP planning and sprint roadmapping.
+
+
+> 📄 Full proposal presentation: [Digital-Transformation-Proposal.pdf](Digital-Transformation-Proposal.pdf)
+>
+> 
