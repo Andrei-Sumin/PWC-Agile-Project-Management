@@ -10,7 +10,30 @@ This repository contains a digital transformation strategy developed for **Sicur
 
 Our objective was to address Sicura’s core business challenges, including operational inefficiency and lack of online sales, by designing an AI-powered, customer-centric digital portal. The solution follows Agile methodology, from Epics and User Stories to MVP planning and sprint roadmapping.
 
-
 > 📄 Full proposal presentation: [Digital-Transformation-Proposal.pdf](Digital-Transformation-Proposal.pdf)
->
-> 
+
+<br>
+
+## 📌 Business Challenge
+
+Sicura Insurance faces structural inefficiencies and growing competition in a digitally transforming market. With no online sales capability and rising pressure to optimize claims handling, the company needed a strategy to enhance customer reach and reduce costs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br> 
+<br>
+
+### License:
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
