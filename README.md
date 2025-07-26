@@ -18,10 +18,44 @@ Our objective was to address Sicura’s core business challenges, including oper
 
 Sicura Insurance faces structural inefficiencies and growing competition in a digitally transforming market. With no online sales capability and rising pressure to optimize claims handling, the company needed a strategy to enhance customer reach and reduce costs.
 
+![Business Challenge](docs/screenshots/business-challenge.png)
 
+---
 
+## 💡 Proposed Solution: AI-Powered Customer Portal
 
+We proposed a digital portal to enable seamless policy quoting, personalized insurance recommendations, online purchases, and claims management — reducing customer effort and improving satisfaction.
 
+![Customer Portal Overview](docs/screenshots/customer-portal.png)
+
+---
+
+## 📊 Business Model Canvas
+
+The team redefined Sicura's business model using the Business Model Canvas and Product Canvas frameworks, aligning digital transformation with revenue growth and partnership strategies across B2C and B2B channels. The solution addresses key pain points for individual policyholders and business clients, offering digital convenience, personalization, and flexible integration for brokers and retailers.
+
+![Business Model Canvas](docs/screenshots/bmc.png)
+![Business Model Canvas](docs/screenshots/product-canvas.png)
+
+---
+
+## 🧩 Epics & User Stories
+
+All functionality was broken into Agile epics and prioritized user stories, with acceptance criteria and story points defined for iterative delivery.
+
+👉 [Click here to view all user stories.](docs/user-stories.md)
+
+![User Stories](docs/screenshots/epics.png)
+
+---
+
+## 📦 MVP and Backlog Prioritization
+
+The MVP includes core functionalities such as user registration, quoting, and purchasing. Additional features were categorized by priority to guide sprint execution.
+
+![MVP Backlog](docs/screenshots/mvp-backlog.png)
+
+---
 
 
 
